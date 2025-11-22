@@ -1,0 +1,9 @@
+--- BEmXRD-Nets v2 Evaluation Report ---
+Train Set: 1007 samples
+Test Set:  252 samples
+
+[Test Metrics]
+R2 Score: 0.866935
+RMSE:     0.330090
+MAE:      0.204690
+MSE:      0.108960

@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.ipynb_checkpoints/
+
+# Data
+data/raw/*.csv
+!data/raw/.gitkeep
+
+# Models
+models_saved/*.pkl
+models_saved/*.pth
+
+# Environment
+.env
+venv/
