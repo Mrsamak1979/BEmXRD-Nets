@@ -3,7 +3,7 @@
 **Official implementation for the paper:**
 > **"BEmXRD-Nets Framework for Novel Machine Learning Models to Predict Crystal Energy with Diversity Structures"**
 > *Samak Boonpan, Weerachai Sarakorn, Krailikhit Latpala, Pornpimon Boriwan, Pornjuk Srepusharawoot*
-> *Scientific Reports (Under Review)*
+> *Scientific Reports ([Under Review](https://www.nature.com/articles/s41598-025-33639-7))*
 
 ---
 
